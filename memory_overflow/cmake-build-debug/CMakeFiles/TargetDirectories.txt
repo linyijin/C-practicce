@@ -1,0 +1,3 @@
+D:/liinyijin/c++/memory_overflow/cmake-build-debug/CMakeFiles/memory_overflow.dir
+D:/liinyijin/c++/memory_overflow/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/liinyijin/c++/memory_overflow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

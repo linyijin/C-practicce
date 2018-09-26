@@ -8,11 +8,12 @@ private:
 	char * str;
 	int len;
 public:
+	String(const String &s);
 	String(const char *s);
 	String();
 	~String();
 	friend ostream & operator<<(ostream &, const String &);
-
+	String& operator=(const String& a);
 };
 #endif // !STRING_H_
 
